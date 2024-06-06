@@ -378,7 +378,7 @@ export const Navbar = () => {
       </div>
     <div className="left col-2 d-flex">
     <div>
-    <Link to={"/"}><img src="not-Completed-Yet\public\logo\eXtraFooterLogo.png" alt="" /></Link>
+    <Link to={"/"}><img src="https://cdn.extrastores.com/hybris/new_ui_ux/logo/eXtra-logo.svg" alt="" /></Link>
     </div>
     <div className='catagory' id='catagory' onClick={()=>{
       const cata =  document.querySelector("#catagory");
