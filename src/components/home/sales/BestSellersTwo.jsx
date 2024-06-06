@@ -33,55 +33,55 @@ export const BestSellersTwo = () => {
     const lis = document.querySelectorAll(".ulLinks a");
     
 const mobile = useEffect(()=>{
-    axios.get('/src/components/home/sales/Gifts.json').then(
+    axios.get('src/components/home/sales/Gifts.json').then(
         (respone) => setMobileData(respone.data.Mobiles),
         
     )
 },[]);
     const tvs = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => setTvsData(respone.data.Tvs),
             
         )
 },[]);
     const lapTops = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => setlapTopsData(respone.data.lapTops),
             
         )
 },[]);
     const washing = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => setWashingData(respone.data.washing),
             
         )
 },[]);
     const refrigetaror = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => setrefrigetarorData(respone.data.refrigetarors),
             
         )
 },[]);
     const tablets = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => settabletsData(respone.data.tablets),
             
         )
 },[]);
     const vacuum = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => setVacuumData(respone.data.vacuum),
             
         )
 },[]);
     const microwaves = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => setMicrowavesData(respone.data.microwaves),
             
         )
 },[]);
     const outdoors = useEffect(()=>{
-        axios.get('/src/components/home/sales/Gifts.json').then(
+        axios.get('src/components/home/sales/Gifts.json').then(
             (respone) => setOutdoorData(respone.data.outdoors),
             
         )
@@ -191,9 +191,9 @@ const mobile = useEffect(()=>{
                 <p>{data.sub}</p>
                 
                 <div className="companyImgs">
-                <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-                <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-                <img src="/public/offers/imgs/tabby_new.png" alt="" />
+                <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+                <img src="public/offers/imgs/tamara-icon.png" alt="" />
+                <img src="public/offers/imgs/tabby_new.png" alt="" />
                 </div>
                 </Link>
                 
@@ -267,9 +267,9 @@ const mobile = useEffect(()=>{
               <p>{data.sub}</p>
               
               <div className="companyImgs">
-              <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-              <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-              <img src="/public/offers/imgs/tabby_new.png" alt="" />
+              <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+              <img src="public/offers/imgs/tamara-icon.png" alt="" />
+              <img src="public/offers/imgs/tabby_new.png" alt="" />
               </div>
               </Link>
               
@@ -344,9 +344,9 @@ const mobile = useEffect(()=>{
               <p>{data.sub}</p>
               
               <div className="companyImgs">
-              <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-              <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-              <img src="/public/offers/imgs/tabby_new.png" alt="" />
+              <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+              <img src="public/offers/imgs/tamara-icon.png" alt="" />
+              <img src="public/offers/imgs/tabby_new.png" alt="" />
               </div>
               </Link>
               
@@ -420,9 +420,9 @@ const mobile = useEffect(()=>{
               <p>{data.sub}</p>
               
               <div className="companyImgs">
-              <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-              <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-              <img src="/public/offers/imgs/tabby_new.png" alt="" />
+              <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+              <img src="public/offers/imgs/tamara-icon.png" alt="" />
+              <img src="public/offers/imgs/tabby_new.png" alt="" />
               </div>
               </Link>
               
@@ -496,9 +496,9 @@ const mobile = useEffect(()=>{
             <p>{data.sub}</p>
             
             <div className="companyImgs">
-            <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-            <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-            <img src="/public/offers/imgs/tabby_new.png" alt="" />
+            <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+            <img src="public/offers/imgs/tamara-icon.png" alt="" />
+            <img src="public/offers/imgs/tabby_new.png" alt="" />
             </div>
             </Link>
             
@@ -572,9 +572,9 @@ const mobile = useEffect(()=>{
             <p>{data.sub}</p>
             
             <div className="companyImgs">
-            <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-            <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-            <img src="/public/offers/imgs/tabby_new.png" alt="" />
+            <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+            <img src="public/offers/imgs/tamara-icon.png" alt="" />
+            <img src="public/offers/imgs/tabby_new.png" alt="" />
             </div>
             </Link>
             
@@ -648,9 +648,9 @@ const mobile = useEffect(()=>{
             <p>{data.sub}</p>
             
             <div className="companyImgs">
-            <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-            <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-            <img src="/public/offers/imgs/tabby_new.png" alt="" />
+            <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+            <img src="public/offers/imgs/tamara-icon.png" alt="" />
+            <img src="public/offers/imgs/tabby_new.png" alt="" />
             </div>
             </Link>
             
@@ -724,9 +724,9 @@ const mobile = useEffect(()=>{
             <p>{data.sub}</p>
             
             <div className="companyImgs">
-            <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-            <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-            <img src="/public/offers/imgs/tabby_new.png" alt="" />
+            <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+            <img src="public/offers/imgs/tamara-icon.png" alt="" />
+            <img src="public/offers/imgs/tabby_new.png" alt="" />
             </div>
             </Link>
             
@@ -800,9 +800,9 @@ const mobile = useEffect(()=>{
             <p>{data.sub}</p>
             
             <div className="companyImgs">
-            <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-            <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-            <img src="/public/offers/imgs/tabby_new.png" alt="" />
+            <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+            <img src="public/offers/imgs/tamara-icon.png" alt="" />
+            <img src="public/offers/imgs/tabby_new.png" alt="" />
             </div>
             </Link>
             

@@ -57,7 +57,7 @@ export default function App() {
       </div>
       <div className="LastSlideBar">
       <div className="LastSlideBar-1">
-      <Link><img src="/public/imgslider/MS24_SAB_TripleTreat_Strip_E.png" alt="" /></Link>
+      <Link><img src="public/imgslider/MS24_SAB_TripleTreat_Strip_E.png" alt="" /></Link>
       </div>
       </div>
     </>

@@ -1,7 +1,7 @@
 {
     "Brands" : [{
         "brandId" : 1,
-        "brandImg" : "/public/brands/APPLE_700.jpg"
+        "brandImg" : "public/brands/APPLE_700.jpg"
     },{
         "brandId" : 2,
         "brandImg" : "/public/brands/Samsung_BrandLogo.png"
@@ -10,43 +10,43 @@
         "brandImg" : "/public/brands/ClassPro_BrandLogo.png"
     },{
         "brandId" : 4,
-        "brandImg" : "/public/brands/LG_BrandLogo.png"
+        "brandImg" : "public/brands/LG_BrandLogo.png"
     },{
         "brandId" : 5,
-        "brandImg" : "/public/brands/Hoover_Logo_1x4.jpg"
+        "brandImg" : "public/brands/Hoover_Logo_1x4.jpg"
     },{
         "brandId" : 6,
-        "brandImg" : "/public/brands/Philips_BrandLogo.png"
+        "brandImg" : "public/brands/Philips_BrandLogo.png"
     },{
         "brandId" : 7,
-        "brandImg" : "/public/brands/Huawei_Logo_1x4.jpg"
+        "brandImg" : "public/brands/Huawei_Logo_1x4.jpg"
     },{
         "brandId" : 8,
-        "brandImg" : "/public/brands/Midea_logo.jpg"
+        "brandImg" : "public/brands/Midea_logo.jpg"
     },{
         "brandId" : 9,
-        "brandImg" : "/public/brands/dyson.png"
+        "brandImg" : "public/brands/dyson.png"
     },{
         "brandId" : 10,
-        "brandImg" : "/public/brands/bissell_700.png"
+        "brandImg" : "public/brands/bissell_700.png"
     },{
         "brandId" : 11,
-        "brandImg" : "/public/brands/Gree_logo.jpg"
+        "brandImg" : "public/brands/Gree_logo.jpg"
     },{
         "brandId" : 12,
-        "brandImg" : "/public/brands/Sony_Logo_1x4.jpg"
+        "brandImg" : "public/brands/Sony_Logo_1x4.jpg"
     },{
         "brandId" : 13,
-        "brandImg" : "/public/brands/Xiomi_Logo_ShopbyBrand.png"
+        "brandImg" : "public/brands/Xiomi_Logo_ShopbyBrand.png"
     },{
         "brandId" : 14,
-        "brandImg" : "/public/brands/Microsoft_Logo_1x4.jpg"
+        "brandImg" : "public/brands/Microsoft_Logo_1x4.jpg"
     },{
         "brandId" : 15,
-        "brandImg" : "/public/brands/Honor_Logo_1x4_1.jpg"
+        "brandImg" : "public/brands/Honor_Logo_1x4_1.jpg"
     },{
         "brandId" : 16,
-        "brandImg" : "/public/brands/CandyNew_BrandLogo.jpg"
+        "brandImg" : "public/brands/CandyNew_BrandLogo.jpg"
     }
 ]
 ,
@@ -55,7 +55,7 @@
     "offerId" : 1,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
+    "imgUrl" : "public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
     "brand" : "Apple",
     "title" : "Apple iPhone 15 Pro Max, 5G, 6.7-inch, 256GB, Natural Titanium",
     "rate" : "4.6",
@@ -68,16 +68,16 @@
     "lineText" : "5699",
     "save" : "SAR 950",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },
 {
     "offerId" : 2,
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Blue.png",
+    "imgUrl" : "public/offers/Apple-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Blue.png",
     "brand" : "Apple",
     "title" : "Apple iPad 10th Gen, Wi-Fi, 10.9 inch, 64GB, Blue",
     "rate" : "4.3",
@@ -90,15 +90,15 @@
     "lineText" : "2049",
     "save" : "SAR 550",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },
 {
     "offerId" : 3,
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/AirPods-Pro-2nd-generation-with-MagSafe-Case-with-Type-C-Charging,-White.png",
+    "imgUrl" : "public/offers/AirPods-Pro-2nd-generation-with-MagSafe-Case-with-Type-C-Charging,-White.png",
     "brand" : "Apple",
     "title" : "AirPods Pro 2nd generation with MagSafe Case with Type C Charging, White",
     "rate" : "4.6",
@@ -111,14 +111,14 @@
     "lineText" : "1049",
     "save" : "SAR 200",
     "imgs" : {
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }
 },{
     "offerId" : 4,
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "imgUrl" : "public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
     "brand" : "Apple",
     "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
     "rate" : "4.7",
@@ -131,15 +131,15 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 5,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-black-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Blue-Titanium.png",
+    "imgUrl" : "public/offers/Apple-black-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Blue-Titanium.png",
     "brand" : "Apple",
     "title" : "Apple USB-C Power Adapter.20W,Black, FOR GAMES AND PHOTOS",
     "rate" : "4.9",
@@ -152,14 +152,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 6,
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-USB-C-Power-Adapter-20W,White.png",
+    "imgUrl" : "public/offers/Apple-USB-C-Power-Adapter-20W,White.png",
     "brand" : "Apple",
     "title" : "Apple USB-C Power Adapter.20W,White",
     "rate" : "4.7",
@@ -172,14 +172,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 7,
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-AirPods-2nd-Gen-with-Charging-Case,-White.png",
+    "imgUrl" : "public/offers/Apple-AirPods-2nd-Gen-with-Charging-Case,-White.png",
     "brand" : "Apple",
     "title" : "Apple AirPods 2nd Gen with Charging Case, White",
     "rate" : "4.7",
@@ -192,14 +192,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 8,
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-8-iPhone-15-Pro,-5G,-6-1-inch,-256GB,-Natural-Titanium.png",
+    "imgUrl" : "public/offers/Apple-8-iPhone-15-Pro,-5G,-6-1-inch,-256GB,-Natural-Titanium.png",
     "brand" : "Apple",
     "title" : "Apple iPhone 15 Pro, 5G, 6.1 inch, 256GB, Natural Titanium",
     "rate" : "4.7",
@@ -212,14 +212,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 9,
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Blue.png",
+    "imgUrl" : "public/offers/Apple-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Blue.png",
     "brand" : "Apple",
     "title" : "Apple iPad 10th Gen, Wi-Fi, 10.9 inch, 64GB, Silver",
     "rate" : "4.7",
@@ -232,14 +232,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 10,
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+    "imgUrl" : "public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
     "brand" : "Apple",
     "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
     "rate" : "4.7",
@@ -252,14 +252,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 11,
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-41mm-Starlight-Aluminium-Case-with-Starlight-Sport-Band---S-M.png",
+    "imgUrl" : "public/offers/Apple-Watch-Series-9-GPS-41mm-Starlight-Aluminium-Case-with-Starlight-Sport-Band---S-M.png",
     "brand" : "Apple",
     "title" : "Apple Watch Series 9 GPS 41mm Starlight Aluminium Case with Starlight Sport Band - S/M",
     "rate" : "4.7",
@@ -272,14 +272,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 12,
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
+    "imgUrl" : "public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
     "brand" : "Apple",
     "title" : "Apple iPhone 15 Pro, 5G, 6.1 inch, 128GB, Natural Titanium",
     "rate" : "4.7",
@@ -292,14 +292,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 13,
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "imgUrl" : "public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
     "brand" : "Apple",
     "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
     "rate" : "4.7",
@@ -312,14 +312,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 14,
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "imgUrl" : "public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
     "brand" : "Apple",
     "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
     "rate" : "4.7",
@@ -332,14 +332,14 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 },{
     "offerId" : 15,
     "specialOffer" : "Special Offer",
-    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "imgUrl" : "public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
     "brand" : "Apple",
     "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
     "rate" : "4.7",
@@ -352,9 +352,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
 }
 ,{
@@ -362,7 +362,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "imgUrl" : "public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
     "brand" : "Apple",
     "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
     "rate" : "4.7",
@@ -375,9 +375,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
     
 }
@@ -390,7 +390,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
+    "imgUrl" : "public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
     "brand" : "Apple",
     "title" : "Apple iPhone 15 Pro Max, 5G, 6.7-inch, 256GB, Natural Titanium",
     "rate" : "4.6",
@@ -403,9 +403,9 @@
     "lineText" : "5699",
     "save" : "SAR 950",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
     ,
     "to" : "/mobiles-tablets/mobiles/smartphone/apple-iphone-15-pro-max-5g-6-7-inch-256gb-natural-titanium/p/100345839"
@@ -415,7 +415,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Samsung-Galaxy-S24-Ultra,-5G,-6-8-Inch,-256GB,-Titanium-Gray.png",
+    "imgUrl" : "public/offers/Samsung-Galaxy-S24-Ultra,-5G,-6-8-Inch,-256GB,-Titanium-Gray.png",
     "brand" : "SAMSUNG",
     "title" : "Samsung Galaxy S24 Ultra, 5G, 6.8 Inch, 256GB, Titanium Gray",
     "rate" : "4.3",
@@ -428,9 +428,9 @@
     "lineText" : "2049",
     "save" : "SAR 550",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/mobiles-tablets/mobiles/smartphone/samsung-galaxy-s24-ultra-5g-6-8-inch-256gb-titanium-gray/p/100355419"
 },
@@ -439,7 +439,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/LENOVO-IdeaPad-1,-Core-i7,-16GB,-512GB-SSD,-15-6-inch,-Cloud-Grey.png",
+    "imgUrl" : "public/offers/LENOVO-IdeaPad-1,-Core-i7,-16GB,-512GB-SSD,-15-6-inch,-Cloud-Grey.png",
     "brand" : "LENOVO",
     "title" : "LENOVO IdeaPad 1, Core i7, 16GB, 512GB SSD, 15.6 inch, Cloud Grey",
     "rate" : "4.6",
@@ -452,9 +452,9 @@
     "lineText" : "1049",
     "save" : "SAR 200",
     "imgs" : {
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     },
     "to" : "/computer/laptops/clamshell/lenovo-ideapad-1-core-i7-16gb-512gb-ssd-15-6-inch-cloud-grey/p/100356805"
 },{
@@ -462,7 +462,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/LG,-65-Inch,-LED-TV,-4K-HDR,-Smart-TV.png",
+    "imgUrl" : "public/offers/LG,-65-Inch,-LED-TV,-4K-HDR,-Smart-TV.png",
     "brand" : "LG",
     "title" : "LG, 65 Inch, LED TV, 4K HDR, Smart TV, PLAY GAMES , WATCH MOVIES",
     "rate" : "4.7",
@@ -475,9 +475,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/electronics/television/led/lg-65-inch-led-tv-4k-hdr-smart-tv/p/100344538"
 },{
@@ -485,7 +485,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/LG-Front-Load-Washing-Machine,-Washer-15kg,-8kg-Dryer,-Silver.png",
+    "imgUrl" : "public/offers/LG-Front-Load-Washing-Machine,-Washer-15kg,-8kg-Dryer,-Silver.png",
     "brand" : "LG",
     "title" : "LG Front Load Washing Machine, Washer 15kg, 8kg Dryer, Silver",
     "rate" : "4.9",
@@ -498,9 +498,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/white-goods/washing-machines/front-load/lg-front-load-washing-machine-washer-15kg-8kg-dryer-silver/p/100302877"
 },{
@@ -508,7 +508,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/HP-VICTUS,-Core-i7,-16GB,-1TB-SSD,-15-6-FHD,-NVIDIA-GeForce-RTX-4050,-Mica-Silver.png",
+    "imgUrl" : "public/offers/HP-VICTUS,-Core-i7,-16GB,-1TB-SSD,-15-6-FHD,-NVIDIA-GeForce-RTX-4050,-Mica-Silver.png",
     "brand" : "HP",
     "title" : "HP VICTUS, Core i7, 16GB, 1TB SSD, 15.6 FHD, NVIDIA GeForce RTX 4050, Mica Silver",
     "rate" : "4.7",
@@ -521,9 +521,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/computer/laptops/gaming-laptops/hp-victus-core-i7-16gb-1tb-ssd-15-6-fhd-nvidia-geforce-rtx-4050-mica-silver/p/100344502"
 },{
@@ -531,7 +531,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/APPLE-MacBook-Pro,-M3-Max,-128GB,-2TB-SSD,-16-2-inch,-Space-Black.png",
+    "imgUrl" : "public/offers/APPLE-MacBook-Pro,-M3-Max,-128GB,-2TB-SSD,-16-2-inch,-Space-Black.png",
     "brand" : "Apple",
     "title" : "APPLE MacBook Pro, M3 Max, 128GB, 2TB SSD, 16.2 inch, Space Black",
     "rate" : "4.7",
@@ -544,9 +544,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/computer/laptops/macbook/apple-macbook-pro-m3-max-128gb-2tb-ssd-16-2-inch-space-black/p/100355808"
 },{
@@ -554,7 +554,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/LG-AC-Split,-Fresh-Dual-Inverter,-18,000-BTU,-Cool-only.png",
+    "imgUrl" : "public/offers/LG-AC-Split,-Fresh-Dual-Inverter,-18,000-BTU,-Cool-only.png",
     "brand" : "LG",
     "title" : "LG AC Split, Fresh Dual Inverter, 18,000 BTU, Cool only",
     "rate" : "4.7",
@@ -567,9 +567,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/white-goods/air-conditioner/split-air-conditioner/lg-ac-split-fresh-dual-inverter-18-000-btu-cool-only/p/100044038"
 },{
@@ -577,7 +577,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/LG-AC-Split-Fresh-Dual-Inverter,-21,500-BTU,-Cool-only.png",
+    "imgUrl" : "public/offers/LG-AC-Split-Fresh-Dual-Inverter,-21,500-BTU,-Cool-only.png",
     "brand" : "LG",
     "title" : "LG AC Split Fresh Dual Inverter, 21,500 BTU, Cool only",
     "rate" : "4.7",
@@ -590,9 +590,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/home-environment-care/vacuum-cleaner/dyson-v8-cordless-vacuum-cleaner-0-54l-115w-silver-nickel/p/100347077"
 },{
@@ -600,7 +600,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/Dyson,-V8,-Cordless-Vacuum-Cleaner,-0-54L,-115W,-Silver-Nickel.png",
+    "imgUrl" : "public/offers/Dyson,-V8,-Cordless-Vacuum-Cleaner,-0-54L,-115W,-Silver-Nickel.png",
     "brand" : "Dyson",
     "title" : "Dyson, V8, Cordless Vacuum Cleaner, 0.54L, 115W, Silver/Nickel",
     "rate" : "4.7",
@@ -613,9 +613,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/electronics/television/led/98p745-tcl-98inch-4k-hdr-10-google-tv/p/100352408"
 },{
@@ -623,7 +623,7 @@
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Special Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/offers/98P745--TCL,-98Inch,-4K-HDR-10+,-Google-TV.png",
+    "imgUrl" : "public/offers/98P745--TCL,-98Inch,-4K-HDR-10+,-Google-TV.png",
     "brand" : "TCL",
     "title" : "98P745--TCL, 98Inch, 4K HDR 10+, Google TV",
     "rate" : "4.7",
@@ -636,9 +636,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/electronics/television/led/98p745-tcl-98inch-4k-hdr-10-google-tv/p/100352408"
 }]
@@ -648,7 +648,7 @@
     "offerId" : 1,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 200 ",
-    "imgUrl" : "/public/cashback/Sony,-75-Inch,4K-Google-TV.png",
+    "imgUrl" : "public/cashback/Sony,-75-Inch,4K-Google-TV.png",
     "brand" : "Sony",
     "title" : "Sony, 75 Inch,4K Google TV",
     "rate" : "4.4",
@@ -661,9 +661,9 @@
     "lineText" : "5699",
     "save" : "SAR 950",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }]
     ,
     "to" : "/electronics/television/led/sony-75-inch-4k-google-tv/p/100348812"
@@ -672,7 +672,7 @@
     "offerId" : 2,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 32",
-    "imgUrl" : "/public/cashback/Philips-PowerPro-Compact-Bagless-Vacuum,-1800W,-330W-Suction-power,-Power-Cyclone-5-Technology.png",
+    "imgUrl" : "public/cashback/Philips-PowerPro-Compact-Bagless-Vacuum,-1800W,-330W-Suction-power,-Power-Cyclone-5-Technology.png",
     "brand" : "PHILIPS",
     "title" : "Philips PowerPro Compact Bagless Vacuum, 1800W, 330W Suction power, Power Cyclone 5 Technology",
     "rate" : "4.6",
@@ -685,9 +685,9 @@
     "lineText" : "2049",
     "save" : "SAR 550",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/small-appliances/home-environment-care/vacuum-cleaner/philips-powerpro-compact-bagless-vacuum-1800w-330w-suction-power-power-cyclone-5-technology/p/100020238"
 },
@@ -695,7 +695,7 @@
     "offerId" : 3,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 100 ",
-    "imgUrl" : "/public/cashback/Skyworth,-65-Inch-QLED-TV-4K-UHD-SMART,-120Hz.png",
+    "imgUrl" : "public/cashback/Skyworth,-65-Inch-QLED-TV-4K-UHD-SMART,-120Hz.png",
     "brand" : "SKYWORTH",
     "title" : "Skyworth, 65 Inch QLED TV 4K UHD SMART, 120Hz",
     "rate" : "4.6",
@@ -708,16 +708,16 @@
     "lineText" : "1049",
     "save" : "SAR 200",
     "imgs" : {
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     },
     "to" : "/electronics/television/qled-tv/skyworth-65-inch-qled-tv-4k-uhd-smart-120hz/p/100353859"
 },{
     "offerId" : 4,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 500",
-    "imgUrl" : "/public/cashback/LG-Dishwasher,-14-Place-Setting,-9-Programs,Silver.png",
+    "imgUrl" : "public/cashback/LG-Dishwasher,-14-Place-Setting,-9-Programs,Silver.png",
     "brand" : "LG",
     "title" : "LG Dishwasher, 14 Place Setting, 9 Programs,Silver",
     "rate" : "4.7",
@@ -730,16 +730,16 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/white-goods/dish-washer/free-standing/lg-dishwasher-14-place-setting-9-programs-silver/p/100056936"
 },{
     "offerId" : 5,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 100",
-    "imgUrl" : "/public/cashback/Skyworth,-75-inch,-4K-UHD-Smart-LED-TV.png",
+    "imgUrl" : "public/cashback/Skyworth,-75-inch,-4K-UHD-Smart-LED-TV.png",
     "brand" : "SKYWORTH",
     "title" : "Skyworth, 75 inch, 4K UHD Smart LED TV",
     "rate" : "4.9",
@@ -752,16 +752,16 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/electronics/television/led/skyworth-75-inch-4k-uhd-smart-led-tv/p/100333960"
 },{
     "offerId" : 7,
     "sabOffer" : "SAB Offer",
     "megaSale" : "Mega Sale",
-    "imgUrl" : "/public/cashback/Samsung,-65-Inch,-4K-UHD-10+,-Smart-TV.png",
+    "imgUrl" : "public/cashback/Samsung,-65-Inch,-4K-UHD-10+,-Smart-TV.png",
     "brand" : "SAMSUNG",
     "title" : "Samsung, 65 Inch, 4K UHD 10+, Smart TV",
     "rate" : "4.7",
@@ -774,16 +774,16 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/electronics/television/led/samsung-65-inch-4k-uhd-10-smart-tv/p/100337057"
 },{
     "offerId" : 8,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 1240",
-    "imgUrl" : "/public/offers/APPLE-MacBook-Pro,-M3-Max,-128GB,-2TB-SSD,-16-2-inch,-Space-Black.png",
+    "imgUrl" : "public/offers/APPLE-MacBook-Pro,-M3-Max,-128GB,-2TB-SSD,-16-2-inch,-Space-Black.png",
     "brand" : "SONY",
     "title" : "Sony, 85 inch, LED TV, 4K HDR",
     "rate" : "4.7",
@@ -796,16 +796,16 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/electronics/television/led/sony-85-inch-led-tv-4k-hdr/p/100344507"
 },{
     "offerId" : 9,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 300",
-    "imgUrl" : "/public/cashback/Philips-Premium-AirFryer-XXL,-1-4Kg-7-3L,-2050-2225W,-Black-with-Copper.png",
+    "imgUrl" : "public/cashback/Philips-Premium-AirFryer-XXL,-1-4Kg-7-3L,-2050-2225W,-Black-with-Copper.png",
     "brand" : "PHILIPS",
     "title" : "Philips Premium AirFryer XXL, 1.4Kg/7.3L, 2050-2225W, Black with Copper",
     "rate" : "4.7",
@@ -818,16 +818,16 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/small-appliances/food-and-beverage-appliances/fryers/philips-premium-airfryer-xxl-1-4kg-7-3l-2050-2225w-black-with-copper/p/100311404"
 },{
     "offerId" : 10,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 51",
-    "imgUrl" : "/public/cashback/Philips-3000-Series-Stand-Steamer-2000W.png",
+    "imgUrl" : "public/cashback/Philips-3000-Series-Stand-Steamer-2000W.png",
     "brand" : "PHILIPS",
     "title" : "Philips 3000 Series Stand Steamer 2000W",
     "rate" : "4.7",
@@ -840,16 +840,16 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/small-appliances/home-environment-care/irons/philips-3000-series-stand-steamer-2000w/p/100346283"
 },{
     "offerId" : 11,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 55",
-    "imgUrl" : "/public/cashback/Philips-Essential-Airfrer-XL,-2000W,-1-2Kg,-6-2L,-Black-&-Dark-Silver.png",
+    "imgUrl" : "public/cashback/Philips-Essential-Airfrer-XL,-2000W,-1-2Kg,-6-2L,-Black-&-Dark-Silver.png",
     "brand" : "PHILIPS",
     "title" : "Philips Essential Airfrer XL, 2000W, 1.2Kg, 6.2L, Black & Dark Silver",
     "rate" : "4.7",
@@ -862,16 +862,16 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/small-appliances/food-and-beverage-appliances/fryers/philips-essential-airfrer-xl-2000w-1-2kg-6-2l-black-dark-silver/p/10031139"
 },{
     "offerId" : 12,
     "sabOffer" : "SAB Offer",
     "specialOffer" : "Cash Back SAR 55",
-    "imgUrl" : "/public/cashback/Philips-Air-Purifier-Series-800-Room-size-up-to-49sqm-White.png",
+    "imgUrl" : "public/cashback/Philips-Air-Purifier-Series-800-Room-size-up-to-49sqm-White.png",
     "brand" : "PHILIPS",
     "title" : "Philips Air Purifier Series 800. Room size up to 49sqm.White",
     "rate" : "4.7",
@@ -884,9 +884,9 @@
     "lineText" : "1969",
     "save" : "SAR 270",
     "imgs" : [{
-        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-        "tamara" : "/public/offers/imgs/tamara-icon.png",
-        "tabby" : "/public/offers/imgs/tabby_new.png"
+        "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "public/offers/imgs/tamara-icon.png",
+        "tabby" : "public/offers/imgs/tabby_new.png"
     }],
     "to" : "/small-appliances/home-environment-care/air-purifier/philips-air-purifier-series-800-room-size-up-to-49sqm-white/p/100136458"
 }],
@@ -895,7 +895,7 @@
         "offerId" : 1,
         "sabOffer" : "SAB Offer",
         "specialOffer" : "Special Offer",
-        "imgUrl" : "/public/trending/LG-AC-Split,-Fresh-Dual-Inverter,-18,000-BTU,-Cool-only.png",
+        "imgUrl" : "public/trending/LG-AC-Split,-Fresh-Dual-Inverter,-18,000-BTU,-Cool-only.png",
         "brand" : "LG",
         "title" : "LG AC Split, Fresh Dual Inverter, 18,000 BTU, Cool only",
         "rate" : "4.4",
@@ -908,9 +908,9 @@
         "lineText" : "5699",
         "save" : "SAR 950",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }]
         ,
         "to" : "/electronics/television/led/sony-75-inch-4k-google-tv/p/100348812"
@@ -918,7 +918,7 @@
     {
         "offerId" : 2,
         "sabOffer" : "SAB Offer",
-        "imgUrl" : "/public/trending/TCL-Split-AC,-18,000-BTU,-Cool-Only,-Rotary-Compressor.png",
+        "imgUrl" : "public/trending/TCL-Split-AC,-18,000-BTU,-Cool-Only,-Rotary-Compressor.png",
         "brand" : "TCL",
         "title" : "TCL Split AC, 18,000 BTU, Cool Only, Rotary Compressor",
         "rate" : "4.6",
@@ -931,9 +931,9 @@
         "lineText" : "2049",
         "save" : "SAR 550",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/small-appliances/home-environment-care/vacuum-cleaner/philips-powerpro-compact-bagless-vacuum-1800w-330w-suction-power-power-cyclone-5-technology/p/100020238"
     },
@@ -941,7 +941,7 @@
         "offerId" : 3,
         "sabOffer" : "SAB Offer",
         "megaSale" : "Mega Sale",
-        "imgUrl" : "/public/trending/Samsung-Split-,-AC-17,000-BTU-Wifi,-White.png",
+        "imgUrl" : "public/trending/Samsung-Split-,-AC-17,000-BTU-Wifi,-White.png",
         "brand" : "SAMSUNG",
         "title" : "Samsung Split , AC  17,000 BTU Wifi, White",
         "rate" : "4.6",
@@ -954,16 +954,16 @@
         "lineText" : "1049",
         "save" : "SAR 200",
         "imgs" : {
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         },
         "to" : "/electronics/television/qled-tv/skyworth-65-inch-qled-tv-4k-uhd-smart-120hz/p/100353859"
     },{
         "offerId" : 4,
         "sabOffer" : "SAB Offer",
         "megaSale" : "Mega Sale",
-        "imgUrl" : "/public/trending/ClassPro-Split-AC,-23000-BTU,-Rotary-Compressor,Wifi,-4-Ways-Swing,-Cold.png",
+        "imgUrl" : "public/trending/ClassPro-Split-AC,-23000-BTU,-Rotary-Compressor,Wifi,-4-Ways-Swing,-Cold.png",
         "brand" : "CLASS PRO",
         "title" : "ClassPro Split AC, 23000 BTU, Rotary Compressor,Wifi, 4 Ways Swing, Cold",
         "rate" : "4.7",
@@ -976,16 +976,16 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/white-goods/dish-washer/free-standing/lg-dishwasher-14-place-setting-9-programs-silver/p/100056936"
     },{
         "offerId" : 5,
         "sabOffer" : "SAB Offer",
         "megaSale" :"Mega Sale",
-        "imgUrl" : "/public/trending/LG-AC-Split-Fresh-Dual-Inverter,-21,500-BTU,-Cool-only.png",
+        "imgUrl" : "public/trending/LG-AC-Split-Fresh-Dual-Inverter,-21,500-BTU,-Cool-only.png",
         "brand" : "GREE",
         "title" : "Gree Split AC, 18,500 BTU Cold, WIFI Control",
         "rate" : "4.9",
@@ -998,16 +998,16 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/electronics/television/led/skyworth-75-inch-4k-uhd-smart-led-tv/p/100333960"
     },{
         "offerId" : 7,
         "sabOffer" : "SAB Offer",
         "megaSale" : "Mega Sale",
-        "imgUrl" : "/public/trending/ClassPro-Split-AC,-24,000-BTU,WIFI-,INVERTER-,4-Ways-Swing,-Heat-&-Cold.png",
+        "imgUrl" : "public/trending/ClassPro-Split-AC,-24,000-BTU,WIFI-,INVERTER-,4-Ways-Swing,-Heat-&-Cold.png",
         "brand" : "CLASS PRO",
         "title" : "ClassPro Split AC, 24,000 BTU,WIFI ,INVERTER ,4 Ways Swing, Heat & Cold",
         "rate" : "4.7",
@@ -1020,16 +1020,16 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/electronics/television/led/samsung-65-inch-4k-uhd-10-smart-tv/p/100337057"
     },{
         "offerId" : 8,
         "sabOffer" : "SAB Offer",
         "megaSale" : "Mega Sale",
-        "imgUrl" : "/public/trending/Gree-Pular-Pro-Inverter-Split-AC,Wi-Fi,-22,000-BTU,Hot-&-Cold.png",
+        "imgUrl" : "public/trending/Gree-Pular-Pro-Inverter-Split-AC,Wi-Fi,-22,000-BTU,Hot-&-Cold.png",
         "brand" : "GREE",
         "title" : "Gree Pular Pro Inverter Split AC,Wi-Fi, 22,000 BTU,Hot & Cold",
         "rate" : "4.7",
@@ -1042,16 +1042,16 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/electronics/television/led/sony-85-inch-led-tv-4k-hdr/p/100344507"
     },{
         "offerId" : 9,
         "sabOffer" : "SAB Offer",
         "megaSale" : "Mega Sale",
-        "imgUrl" : "/public/trending/LG-Spilt-AC,-18,000-BTU,-Cool,-Win,-Dual-Inverter-Compressor.png",
+        "imgUrl" : "public/trending/LG-Spilt-AC,-18,000-BTU,-Cool,-Win,-Dual-Inverter-Compressor.png",
         "brand" : "LG",
         "title" : "LG Spilt AC, 18,000 BTU, Cool, Win, Dual Inverter Compressor",
         "rate" : "4.7",
@@ -1064,16 +1064,16 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/small-appliances/food-and-beverage-appliances/fryers/philips-premium-airfryer-xxl-1-4kg-7-3l-2050-2225w-black-with-copper/p/100311404"
     },{
         "offerId" : 10,
         "sabOffer" : "SAB Offer",
         "specialOffer" : "Special Offer",
-        "imgUrl" : "/public/trending/LG-Spilt-AC,-20,000-BTU,-Green,-Cool-Only,-Dual-Inverter-Compressor.png",
+        "imgUrl" : "public/trending/LG-Spilt-AC,-20,000-BTU,-Green,-Cool-Only,-Dual-Inverter-Compressor.png",
         "brand" : "LG",
         "title" : "LG Spilt AC, 20,000 BTU, Green, Cool Only, Dual Inverter Compressor",
         "rate" : "4.7",
@@ -1086,16 +1086,16 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/small-appliances/home-environment-care/irons/philips-3000-series-stand-steamer-2000w/p/100346283"
     },{
         "offerId" : 11,
         "sabOffer" : "SAB Offer",
         "specialOffer" : "Special Offer",
-        "imgUrl" : "/public/trending/Gree-Split-AC,-22,200-BTU,-Cold-Only,-Self-Clean,-Bluetooth,-Rotary.png",
+        "imgUrl" : "public/trending/Gree-Split-AC,-22,200-BTU,-Cold-Only,-Self-Clean,-Bluetooth,-Rotary.png",
         "brand" : "GREE",
         "title" : "Gree Split AC, 22,200 BTU, Cold Only, Self Clean, Bluetooth, Rotary",
         "rate" : "4.7",
@@ -1108,16 +1108,16 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/small-appliances/food-and-beverage-appliances/fryers/philips-essential-airfrer-xl-2000w-1-2kg-6-2l-black-dark-silver/p/10031139"
     },{
         "offerId" : 12,
         "sabOffer" : "SAB Offer",
         "megaSale" : "Mega Sale",
-        "imgUrl" : "/public/trending/Samsung-WindFree-Smart-Split-AC,-20,500-BTU-Hot-Cold.png",
+        "imgUrl" : "public/trending/Samsung-WindFree-Smart-Split-AC,-20,500-BTU-Hot-Cold.png",
         "brand" : "SAMSUNG",
         "title" : "Samsung WindFree Smart Split AC, 20,500 BTU Hot/Cold",
         "rate" : "4.7",
@@ -1130,9 +1130,9 @@
         "lineText" : "1969",
         "save" : "SAR 270",
         "imgs" : [{
-            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-            "tamara" : "/public/offers/imgs/tamara-icon.png",
-            "tabby" : "/public/offers/imgs/tabby_new.png"
+            "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "public/offers/imgs/tamara-icon.png",
+            "tabby" : "public/offers/imgs/tabby_new.png"
         }],
         "to" : "/small-appliances/home-environment-care/air-purifier/philips-air-purifier-series-800-room-size-up-to-49sqm-white/p/100136458"
     }],
@@ -1142,7 +1142,7 @@
             "sallerId" :"one",
             "sabOffer" : "SAB Offer",
             "specialOffer" : "Special Offer",
-            "imgUrl" : "/public/trending/LG-AC-Split,-Fresh-Dual-Inverter,-18,000-BTU,-Cool-only.png",
+            "imgUrl" : "public/trending/LG-AC-Split,-Fresh-Dual-Inverter,-18,000-BTU,-Cool-only.png",
             "brand" : "LG",
             "title" : "LG AC Split, Fresh Dual Inverter, 18,000 BTU, Cool only",
             "rate" : "4.4",
@@ -1155,9 +1155,9 @@
             "lineText" : "5699",
             "save" : "SAR 950",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }]
             ,
             "to" : "/electronics/television/led/sony-75-inch-4k-google-tv/p/100348812"
@@ -1165,7 +1165,7 @@
         {
             "offerId" : 2,
             "sabOffer" : "SAB Offer",
-            "imgUrl" : "/public/trending/TCL-Split-AC,-18,000-BTU,-Cool-Only,-Rotary-Compressor.png",
+            "imgUrl" : "public/trending/TCL-Split-AC,-18,000-BTU,-Cool-Only,-Rotary-Compressor.png",
             "brand" : "TCL",
             "title" : "TCL Split AC, 18,000 BTU, Cool Only, Rotary Compressor",
             "rate" : "4.6",
@@ -1178,9 +1178,9 @@
             "lineText" : "2049",
             "save" : "SAR 550",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/small-appliances/home-environment-care/vacuum-cleaner/philips-powerpro-compact-bagless-vacuum-1800w-330w-suction-power-power-cyclone-5-technology/p/100020238"
         },
@@ -1188,7 +1188,7 @@
             "offerId" : 3,
             "sabOffer" : "SAB Offer",
             "megaSale" : "Mega Sale",
-            "imgUrl" : "/public/trending/Samsung-Split-,-AC-17,000-BTU-Wifi,-White.png",
+            "imgUrl" : "public/trending/Samsung-Split-,-AC-17,000-BTU-Wifi,-White.png",
             "brand" : "SAMSUNG",
             "title" : "Samsung Split , AC  17,000 BTU Wifi, White",
             "rate" : "4.6",
@@ -1201,16 +1201,16 @@
             "lineText" : "1049",
             "save" : "SAR 200",
             "imgs" : {
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             },
             "to" : "/electronics/television/qled-tv/skyworth-65-inch-qled-tv-4k-uhd-smart-120hz/p/100353859"
         },{
             "offerId" : 4,
             "sabOffer" : "SAB Offer",
             "megaSale" : "Mega Sale",
-            "imgUrl" : "/public/trending/ClassPro-Split-AC,-23000-BTU,-Rotary-Compressor,Wifi,-4-Ways-Swing,-Cold.png",
+            "imgUrl" : "public/trending/ClassPro-Split-AC,-23000-BTU,-Rotary-Compressor,Wifi,-4-Ways-Swing,-Cold.png",
             "brand" : "CLASS PRO",
             "title" : "ClassPro Split AC, 23000 BTU, Rotary Compressor,Wifi, 4 Ways Swing, Cold",
             "rate" : "4.7",
@@ -1223,16 +1223,16 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/white-goods/dish-washer/free-standing/lg-dishwasher-14-place-setting-9-programs-silver/p/100056936"
         },{
             "offerId" : 5,
             "sabOffer" : "SAB Offer",
             "megaSale" :"Mega Sale",
-            "imgUrl" : "/public/trending/LG-AC-Split-Fresh-Dual-Inverter,-21,500-BTU,-Cool-only.png",
+            "imgUrl" : "public/trending/LG-AC-Split-Fresh-Dual-Inverter,-21,500-BTU,-Cool-only.png",
             "brand" : "GREE",
             "title" : "Gree Split AC, 18,500 BTU Cold, WIFI Control",
             "rate" : "4.9",
@@ -1245,16 +1245,16 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/electronics/television/led/skyworth-75-inch-4k-uhd-smart-led-tv/p/100333960"
         },{
             "offerId" : 7,
             "sabOffer" : "SAB Offer",
             "megaSale" : "Mega Sale",
-            "imgUrl" : "/public/trending/ClassPro-Split-AC,-24,000-BTU,WIFI-,INVERTER-,4-Ways-Swing,-Heat-&-Cold.png",
+            "imgUrl" : "public/trending/ClassPro-Split-AC,-24,000-BTU,WIFI-,INVERTER-,4-Ways-Swing,-Heat-&-Cold.png",
             "brand" : "CLASS PRO",
             "title" : "ClassPro Split AC, 24,000 BTU,WIFI ,INVERTER ,4 Ways Swing, Heat & Cold",
             "rate" : "4.7",
@@ -1267,16 +1267,16 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/electronics/television/led/samsung-65-inch-4k-uhd-10-smart-tv/p/100337057"
         },{
             "offerId" : 8,
             "sabOffer" : "SAB Offer",
             "megaSale" : "Mega Sale",
-            "imgUrl" : "/public/trending/Gree-Pular-Pro-Inverter-Split-AC,Wi-Fi,-22,000-BTU,Hot-&-Cold.png",
+            "imgUrl" : "public/trending/Gree-Pular-Pro-Inverter-Split-AC,Wi-Fi,-22,000-BTU,Hot-&-Cold.png",
             "brand" : "GREE",
             "title" : "Gree Pular Pro Inverter Split AC,Wi-Fi, 22,000 BTU,Hot & Cold",
             "rate" : "4.7",
@@ -1289,16 +1289,16 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/electronics/television/led/sony-85-inch-led-tv-4k-hdr/p/100344507"
         },{
             "offerId" : 9,
             "sabOffer" : "SAB Offer",
             "megaSale" : "Mega Sale",
-            "imgUrl" : "/public/trending/LG-Spilt-AC,-18,000-BTU,-Cool,-Win,-Dual-Inverter-Compressor.png",
+            "imgUrl" : "public/trending/LG-Spilt-AC,-18,000-BTU,-Cool,-Win,-Dual-Inverter-Compressor.png",
             "brand" : "LG",
             "title" : "LG Spilt AC, 18,000 BTU, Cool, Win, Dual Inverter Compressor",
             "rate" : "4.7",
@@ -1311,16 +1311,16 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/small-appliances/food-and-beverage-appliances/fryers/philips-premium-airfryer-xxl-1-4kg-7-3l-2050-2225w-black-with-copper/p/100311404"
         },{
             "offerId" : 10,
             "sabOffer" : "SAB Offer",
             "specialOffer" : "Special Offer",
-            "imgUrl" : "/public/trending/LG-Spilt-AC,-20,000-BTU,-Green,-Cool-Only,-Dual-Inverter-Compressor.png",
+            "imgUrl" : "public/trending/LG-Spilt-AC,-20,000-BTU,-Green,-Cool-Only,-Dual-Inverter-Compressor.png",
             "brand" : "LG",
             "title" : "LG Spilt AC, 20,000 BTU, Green, Cool Only, Dual Inverter Compressor",
             "rate" : "4.7",
@@ -1333,16 +1333,16 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/small-appliances/home-environment-care/irons/philips-3000-series-stand-steamer-2000w/p/100346283"
         },{
             "offerId" : 11,
             "sabOffer" : "SAB Offer",
             "specialOffer" : "Special Offer",
-            "imgUrl" : "/public/trending/Gree-Split-AC,-22,200-BTU,-Cold-Only,-Self-Clean,-Bluetooth,-Rotary.png",
+            "imgUrl" : "public/trending/Gree-Split-AC,-22,200-BTU,-Cold-Only,-Self-Clean,-Bluetooth,-Rotary.png",
             "brand" : "GREE",
             "title" : "Gree Split AC, 22,200 BTU, Cold Only, Self Clean, Bluetooth, Rotary",
             "rate" : "4.7",
@@ -1355,16 +1355,16 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/small-appliances/food-and-beverage-appliances/fryers/philips-essential-airfrer-xl-2000w-1-2kg-6-2l-black-dark-silver/p/10031139"
         },{
             "offerId" : 12,
             "sabOffer" : "SAB Offer",
             "megaSale" : "Mega Sale",
-            "imgUrl" : "/public/trending/Samsung-WindFree-Smart-Split-AC,-20,500-BTU-Hot-Cold.png",
+            "imgUrl" : "public/trending/Samsung-WindFree-Smart-Split-AC,-20,500-BTU-Hot-Cold.png",
             "brand" : "SAMSUNG",
             "title" : "Samsung WindFree Smart Split AC, 20,500 BTU Hot/Cold",
             "rate" : "4.7",
@@ -1377,9 +1377,9 @@
             "lineText" : "1969",
             "save" : "SAR 270",
             "imgs" : [{
-                "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
-                "tamara" : "/public/offers/imgs/tamara-icon.png",
-                "tabby" : "/public/offers/imgs/tabby_new.png"
+                "baseeta" : "public/offers/imgs/Baseeta-english-logo.png",
+                "tamara" : "public/offers/imgs/tamara-icon.png",
+                "tabby" : "public/offers/imgs/tabby_new.png"
             }],
             "to" : "/small-appliances/home-environment-care/air-purifier/philips-air-purifier-series-800-room-size-up-to-49sqm-white/p/100136458"
         }]

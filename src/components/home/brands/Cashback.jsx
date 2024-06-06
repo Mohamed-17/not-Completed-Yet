@@ -22,7 +22,7 @@ import { Navigation } from 'swiper/modules';
 export const Cashback = () => {
     const [data,setData] = useState([])
     useEffect(()=>{
-        axios.get('/src/components/home/brands/TopBrands.json').then(
+        axios.get('src/components/home/brands/TopBrands.json').then(
             (respone) => setData(respone.data.cashBack),
             
         )
@@ -85,9 +85,9 @@ export const Cashback = () => {
                 <p>{data.sub}</p>
                 
                 <div className="companyImgs">
-                <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-                <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-                <img src="/public/offers/imgs/tabby_new.png" alt="" />
+                <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+                <img src="public/offers/imgs/tamara-icon.png" alt="" />
+                <img src="public/offers/imgs/tabby_new.png" alt="" />
                 </div>
                 </Link>
                </div>

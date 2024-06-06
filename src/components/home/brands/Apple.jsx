@@ -79,9 +79,9 @@ return (
                 <p>{data.sub}</p>
                 
                 <div className="companyImgs">
-                <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-                <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-                <img src="/public/offers/imgs/tabby_new.png" alt="" />
+                <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+                <img src="public/offers/imgs/tamara-icon.png" alt="" />
+                <img src="public/offers/imgs/tabby_new.png" alt="" />
                 </div>
                 </Link>
                </div>
@@ -143,9 +143,9 @@ return (
                 <p>{data.sub}</p>
                 
                 <div className="companyImgs">
-                <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-                <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-                <img src="/public/offers/imgs/tabby_new.png" alt="" />
+                <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+                <img src="public/offers/imgs/tamara-icon.png" alt="" />
+                <img src="public/offers/imgs/tabby_new.png" alt="" />
                 </div>
                 </Link>
                </div>
@@ -207,9 +207,9 @@ return (
                 <p>{data.sub}</p>
                 
                 <div className="companyImgs">
-                <img src="/public/offers/imgs/Baseeta-english-logo.png" alt="" />
-                <img src="/public/offers/imgs/tamara-icon.png" alt="" />
-                <img src="/public/offers/imgs/tabby_new.png" alt="" />
+                <img src="public/offers/imgs/Baseeta-english-logo.png" alt="" />
+                <img src="public/offers/imgs/tamara-icon.png" alt="" />
+                <img src="public/offers/imgs/tabby_new.png" alt="" />
                 </div>
                 </Link>
                </div>

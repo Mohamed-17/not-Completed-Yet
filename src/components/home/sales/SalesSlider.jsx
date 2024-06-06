@@ -21,7 +21,7 @@ export default function SalesSlider() {
      <div className="CardSale">
      <Link>
      <div className="img-container">
-     <img src="/public/sales/iPhones_SmallBlock.png" alt="" />
+     <img src="public/sales/iPhones_SmallBlock.png" alt="" />
      </div>
      <div className="text-area">
      <h5>SmartPhones</h5>
@@ -32,7 +32,7 @@ export default function SalesSlider() {
      <div className="CardSale">
      <Link>
      <div className="img-container">
-     <img src="/public/sales/Laptops_SmallBlock.png" alt="" />
+     <img src="public/sales/Laptops_SmallBlock.png" alt="" />
      </div>
      <div className="text-area">
      <h5>Laptops</h5>

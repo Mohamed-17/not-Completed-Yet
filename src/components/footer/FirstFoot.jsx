@@ -6,7 +6,7 @@ export const FirstFoot = () => {
     <div className="firstFoot">
     <div className="FirstFoot_Content">
     <div className="image_content">
-    <img src="/public/icons/like.svg" alt="" />
+    <img src="public/icons/like.svg" alt="" />
     </div>
     <div className="trusted_container">
     <h5>Trusted by customers</h5>

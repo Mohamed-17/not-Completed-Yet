@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export const ShopCard = () => {
   const [data , SetData] = useState([])
     useEffect(()=>{
-      axios.get('/src/components/home/shopcard/card.json')
+      axios.get('src/components/home/shopcard/card.json')
       .then(res => SetData(res.data.cards))
       
     }, []);

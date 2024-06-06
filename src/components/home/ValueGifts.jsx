@@ -11,7 +11,7 @@ import "swiper/css";
 export const ValueGifts = () => {
 const [data , setData] = useState([]);
 useEffect(()=>{
-    axios.get('/src/components/home/shopcard/valueGifts.json')
+    axios.get('src/components/home/shopcard/valueGifts.json')
     .then((res) => setData(res.data.valueGifts))
 },[])
 return (

@@ -7,7 +7,7 @@ export const LastPieceDeal = () => {
     <div className="piece">
     <div className="imgPieceHolder">
     <Link to={"/outlet/c/8019"}>
-    <img src="/public/offers/MS24_LastPiece_Strip_E.png" alt="" />
+    <img src="public/offers/MS24_LastPiece_Strip_E.png" alt="" />
     </Link>
     </div>
     </div>

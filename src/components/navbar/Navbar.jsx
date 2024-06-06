@@ -378,7 +378,7 @@ export const Navbar = () => {
       </div>
     <div className="left col-2 d-flex">
     <div>
-    <Link to={"/"}><img src="/public/extra-img/th.jfif" alt="" /></Link>
+    <Link to={"/"}><img src="public/extra-img/th.jfif" alt="" /></Link>
     </div>
     <div className='catagory' id='catagory' onClick={()=>{
       const cata =  document.querySelector("#catagory");
@@ -476,7 +476,7 @@ export const Navbar = () => {
     <li>
         <Link to={"/jood/benefits"}>
         <div>
-        <img src="/public/extra-img/jood-logo.svg" alt="" />
+        <img src="public/extra-img/jood-logo.svg" alt="" />
         </div>
         </Link>
     </li>
@@ -509,7 +509,7 @@ export const Navbar = () => {
     <Link to={"/baseeta"} onClick={()=>{
       document.querySelector(".wishList_Menu").classList.remove("active")
     }}>
-      <li> <img src="/public/extra-img/tasheel-icon.svg" alt="No image" /> <span>Baseeta</span></li>
+      <li> <img src="public/extra-img/tasheel-icon.svg" alt="No image" /> <span>Baseeta</span></li>
     </Link>
     <div className="br"></div>
     <Link to={'/extraservices'} onClick={()=>{
@@ -542,7 +542,7 @@ export const Navbar = () => {
     <div className="last_nav_left">
     <div className="flag">
     <div className="dropdown">
-    <img src="/public/flag/4641082361_37d32d0bb3_b.png" alt="" />
+    <img src="public/flag/4641082361_37d32d0bb3_b.png" alt="" />
   <button className="dropbtn">En</button>
   <span id='menu_flag'><MdOutlineKeyboardArrowDown/></span>
   <div className="dropdown-content">
@@ -556,16 +556,16 @@ export const Navbar = () => {
     <div className="flags_of_countries d-flex">
     <div className="bahrain">
     <div>
-    <img src="/public/flag/bahrain.png" alt="" />
+    <img src="public/flag/bahrain.png" alt="" />
     </div>
     <span>Bahrain</span>
     </div>
     <div className="Saudi">
-    <img src="/public/flag/4641082361_37d32d0bb3_b.png" alt="" />
+    <img src="public/flag/4641082361_37d32d0bb3_b.png" alt="" />
     <span>Saudi Arabia</span>
     </div>
     <div className="Oman">
-    <img src="/public/flag/Flag_of_Oman.png" alt="" />
+    <img src="public/flag/Flag_of_Oman.png" alt="" />
     <span>Oman</span>
     </div>
     </div>
