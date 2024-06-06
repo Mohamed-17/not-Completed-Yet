@@ -1,0 +1,44 @@
+{
+    "cards" : [{
+        "cardId" : 1,
+        "cardName" : "Washing Machine Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M1.png"
+    },{
+        "cardId" : 2,
+        "cardName" : "Refrigerators Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M2.png"
+    },{
+        "cardId" : 3,
+        "cardName" : "SmartPhones Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M3.png"
+    },{
+        "cardId" : 4,
+        "cardName" : "Laptops Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M4.png"
+    },{
+        "cardId" : 5,
+        "cardName" : "Kitchen Appliances Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M5.png"
+    },{
+        "cardId" : 6,
+        "cardName" : "Home Care Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M6.png"
+    },{
+        "cardId" : 7,
+        "cardName" : "TVs Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M7.png"
+    },{
+        "cardId" : 8,
+        "cardName" : "ACs Sale",
+        "cardDescription" : "Shop Now",
+        "cardImg" : "/public/cards-imgs/M8.png"
+    }
+]
+}

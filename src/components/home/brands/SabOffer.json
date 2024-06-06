@@ -1,0 +1,411 @@
+{
+    "Brands" : [{
+        "brandId" : 1,
+        "brandImg" : "/public/brands/APPLE_700.jpg"
+    },{
+        "brandId" : 2,
+        "brandImg" : "/public/brands/Samsung_BrandLogo.png"
+    },{
+        "brandId" : 3,
+        "brandImg" : "/public/brands/ClassPro_BrandLogo.png"
+    },{
+        "brandId" : 4,
+        "brandImg" : "/public/brands/LG_BrandLogo.png"
+    },{
+        "brandId" : 5,
+        "brandImg" : "/public/brands/Hoover_Logo_1x4.jpg"
+    },{
+        "brandId" : 6,
+        "brandImg" : "/public/brands/Philips_BrandLogo.png"
+    },{
+        "brandId" : 7,
+        "brandImg" : "/public/brands/Huawei_Logo_1x4.jpg"
+    },{
+        "brandId" : 8,
+        "brandImg" : "/public/brands/Midea_logo.jpg"
+    },{
+        "brandId" : 9,
+        "brandImg" : "/public/brands/dyson.png"
+    },{
+        "brandId" : 10,
+        "brandImg" : "/public/brands/bissell_700.png"
+    },{
+        "brandId" : 11,
+        "brandImg" : "/public/brands/Gree_logo.jpg"
+    },{
+        "brandId" : 12,
+        "brandImg" : "/public/brands/Sony_Logo_1x4.jpg"
+    },{
+        "brandId" : 13,
+        "brandImg" : "/public/brands/Xiomi_Logo_ShopbyBrand.png"
+    },{
+        "brandId" : 14,
+        "brandImg" : "/public/brands/Microsoft_Logo_1x4.jpg"
+    },{
+        "brandId" : 15,
+        "brandImg" : "/public/brands/Honor_Logo_1x4_1.jpg"
+    },{
+        "brandId" : 16,
+        "brandImg" : "/public/brands/CandyNew_BrandLogo.jpg"
+    }
+]
+,
+"Offers" : [
+{
+    "offerId" : 1,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
+    "brand" : "Apple",
+    "title" : "Apple iPhone 15 Pro Max, 5G, 6.7-inch, 256GB, Natural Titanium",
+    "rate" : "4.6",
+    "peopleRates" : "1491",
+    "price" : "4749",
+    "offer" : "16.67% Off",
+    "realPrice" : "5699",
+    "saveOffer" : "SAR 950",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "5699",
+    "save" : "SAR 950",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},
+{
+    "offerId" : 2,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Blue.png",
+    "brand" : "Apple",
+    "title" : "Apple iPad 10th Gen, Wi-Fi, 10.9 inch, 64GB, Blue",
+    "rate" : "4.3",
+    "peopleRates" : "1626",
+    "price" : "1499",
+    "offer" : "26.84% Off",
+    "realPrice" : "2049",
+    "saveOffer" : "SAR 550",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "2049",
+    "save" : "SAR 550",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},
+{
+    "offerId" : 3,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/AirPods-Pro-2nd-generation-with-MagSafe-Case-with-Type-C-Charging,-White.png",
+    "brand" : "Apple",
+    "title" : "AirPods Pro 2nd generation with MagSafe Case with Type C Charging, White",
+    "rate" : "4.6",
+    "peopleRates" : "999",
+    "price" : "849",
+    "offer" : "19.07% Off",
+    "realPrice" : "1049",
+    "saveOffer" : "SAR 200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1049",
+    "save" : "SAR 200",
+    "imgs" : {
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }
+},{
+    "offerId" : 4,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "brand" : "Apple",
+    "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 5,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-black-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Blue-Titanium.png",
+    "brand" : "Apple",
+    "title" : "Apple USB-C Power Adapter.20W,White",
+    "rate" : "4.9",
+    "peopleRates" : "1451",
+    "price" : "69",
+    "offer" : "30.3% Off",
+    "realPrice" : "99",
+    "saveOffer" : "SAR 30",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 6,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-USB-C-Power-Adapter-20W,White.png",
+    "brand" : "Apple",
+    "title" : "Apple USB-C Power Adapter.20W,White",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 7,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-AirPods-2nd-Gen-with-Charging-Case,-White.png",
+    "brand" : "Apple",
+    "title" : "Apple AirPods 2nd Gen with Charging Case, White",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 8,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-8-iPhone-15-Pro,-5G,-6-1-inch,-256GB,-Natural-Titanium.png",
+    "brand" : "Apple",
+    "title" : "Apple iPhone 15 Pro, 5G, 6.1 inch, 256GB, Natural Titanium",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 9,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Blue.png",
+    "brand" : "Apple",
+    "title" : "Apple iPad 10th Gen, Wi-Fi, 10.9 inch, 64GB, Silver",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 10,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+    "brand" : "Apple",
+    "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 11,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-41mm-Starlight-Aluminium-Case-with-Starlight-Sport-Band---S-M.png",
+    "brand" : "Apple",
+    "title" : "Apple Watch Series 9 GPS 41mm Starlight Aluminium Case with Starlight Sport Band - S/M",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 12,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.png",
+    "brand" : "Apple",
+    "title" : "Apple iPhone 15 Pro, 5G, 6.1 inch, 128GB, Natural Titanium",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 13,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "brand" : "Apple",
+    "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 14,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "brand" : "Apple",
+    "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+},{
+    "offerId" : 15,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "brand" : "Apple",
+    "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+}
+,{
+    "offerId" : 15,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-Watch-Series-9-GPS-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band---M-L.png",
+    "brand" : "Apple",
+    "title" : "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case with Midnight Sport..",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+}
+]
+}

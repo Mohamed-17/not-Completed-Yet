@@ -1,0 +1,1327 @@
+{
+    "Mobiles" : [{
+            "offerId" : 0,
+            "sallerId" : 1,
+        "specialOffer" : "Special Offer",
+        "imgUrl" : "/public/gifts/mobile/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.jpg",
+        "brand" : "Apple",
+        "title" : "Apple iPhone 15 Pro Max, 5G, 6.7-inch, 256GB, Natural Titanium",
+        "rate" : "4.6",
+        "peopleRates" : "1472",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        }, {
+            "offerId" : 1,
+            "sallerId" : 2,
+        "specialOffer" : "Special Offer",
+        "imgUrl" : "/public/gifts/mobile/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Blue-Titanium.jpg",
+        "brand" : "Apple",
+        "title" : "Apple iPhone 15 Pro Max, 5G, 6.7 inch, 256GB, Blue Titanium",
+        "rate" : "4.6",
+        "peopleRates" : "1472",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 2,
+            "sallerId" : 3,
+        "sabOffer" : "SAB Offer",
+        "specialOffer" : "Special Offer",
+        "imgUrl" : "/public/gifts/mobile/Apple-iPhone-15-Pro-Max,-5G,-6-7-inch,-256GB,-Natural-Titanium.jpg",
+        "brand" : "Apple",
+        "title" : "Apple iPhone 15 Pro Max, 5G, 6.7-inch, 256GB, Natural Titanium",
+        "rate" : "4.4",
+        "peopleRates" : "988",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 3,
+            "sallerId" : 4,
+        "sabOffer" : "SAB Offer",
+        "specialOffer" : "Special Offer",
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/mobile/Samsung-Galaxy-A05,-4G,-64GB,-4GB-RAM,-Black.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Samsung Galaxy A05, 4G, 64GB, 4GB RAM, Black",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 4,
+            "sallerId" : 5,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/mobile/Samsung-Galaxy-A05,-4G,-64GB,-4GB-RAM,-Silver.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Samsung Galaxy A05, 4G, 64GB, 4GB RAM, Silver",
+        "rate" : "4.7",
+        "peopleRates" : "246",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 5,
+            "sallerId" : 6,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/mobile/Galaxy-M34-,-128-GB-5G,-Dark-blue.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Galaxy M34 , 128 GB 5G, Dark blue",
+        "rate" : "3.7",
+        "peopleRates" : "5",
+        "price" : "599",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 6,
+            "sallerId" : 7,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/mobile/Samsung-Galaxy-A05,-4G,-64GB,-4GB-RAM,-Light-Green-.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Samsung Galaxy A05, 4G, 64GB, 4GB RAM, Light Green.",
+        "price" : "299",
+        "offer" : "22.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 7,
+            "sallerId" : 8,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/mobile/Galaxy-M34-5G-128-GB,Silver.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Galaxy M34 5G 128 GB,Silver",
+        "rate" : "3.7",
+        "peopleRates" : "5",
+        "price" : "599",
+        "offer" : "40.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 8,
+            "sallerId" : 9,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/mobile/Samsung-Galaxy-A54,-5G,-256GB,-Black.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Samsung Galaxy A54, 5G, 256GB, Black",
+        "rate" : "4.3",
+        "peopleRates" : "2601",
+        "price" : "1199",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        }
+    
+    ],
+    "Tvs" : [
+        {
+            "offerId" : 0,
+            "sallerId" : 1,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/LG,-65-Inch,-LED-TV,-4K-HDR,-Smart-TV.jpg",
+        "brand" : "LG",
+        "title" : "LG, 65 Inch, LED TV, 4K HDR, Smart TV",
+        "rate" : "4.7",
+        "peopleRates" : "80",
+        "price" : "1999",
+        "offer" : "45.96% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        }, {
+            "offerId" : 1,
+            "sallerId" : 2,
+        "specialOffer" : "Most Wanted",
+        "imgUrl" : "/public/gifts/tv/ClassPro,-58-Inch,-Android-4K-LED-TV.jpg",
+        "brand" : "CLASS PRO",
+        "title" : "ClassPro, 58 Inch, Android 4K LED TV",
+        "price" : "1249",
+        "offer" : "37.52% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 750",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 750",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+        "offerId" : 2,
+        "sallerId" : 3,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/LG,-65-Inch,-LED-TV,-4K-HDR,-Smart-TV.jpg",
+        "brand" : "LG",
+        "title" : "LG, 75 Inch, LED TV, 4K HDR, Smart TV",
+        "rate" : "4.4",
+        "peopleRates" : "988",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 3,
+            "sallerId" : 4,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/Samsung,-65-Inch,-4K-Smart-TV,-60Hz.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Samsung, 65 Inch, 4K Smart TV, 60Hz",
+        "price" : "1949",
+        "offer" : "47.31% Off",
+        "realPrice" : "3699",
+        "saveOffer" : "SAR 1750",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 4,
+            "sallerId" : 5,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/Samsung,-75-Inch,-4K-Smart-TV.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Samsung, 75 Inch, 4K Smart TV",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 5,
+            "sallerId" : 6,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/TCL,-65-Inch,-HDR-4K-Smart-TV,-60-Hz,-HDMI-2.jpg",
+        "brand" : "SAMSUNG",
+        "title" : "Samsung, 65 Inch, 4K Smart TV, 60Hz",
+        "rate" : "3.7",
+        "peopleRates" : "5",
+        "price" : "599",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 6,
+            "sallerId" : 7,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/TCL,-65-Inch,-HDR-4K-Smart-TV,-60-Hz,-HDMI-2.jpg",
+        "brand" : "TCL",
+        "title" : "TCL, 65 Inch, HDR 4K Smart TV, 60 Hz, HDMI 2",
+        "price" : "1799",
+        "offer" : "22.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 7,
+            "sallerId" : 8,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/LG,-65-Inch,-7QNED-TV,-4K-HDR,-Smart-TV.jpg",
+        "brand" : "LG",
+        "title" : "LG, 65 Inch, QNED TV, 4K HDR, Smart TV",
+        "rate" : "4.4",
+        "peopleRates" : "67",
+        "price" : "3599",
+        "offer" : "40.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        },{
+            "offerId" : 8,
+            "sallerId" : 9,
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/gifts/tv/Sony,-65-Inch,-4K-HDR,-Android-TV.jpg",
+        "brand" : "SONY",
+        "title" : "Sony, 65 Inch, 4K HDR, Android TV",
+        "rate" : "4.6",
+        "peopleRates" : "10",
+        "price" : "2446",
+        "offer" : "51.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+        }
+    ],
+    "lapTops": [
+        {
+        "offerId" : 0,
+        "sallerId" : 1,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/laptop/HP-Notebook-15s,-Core-i5,-8GB,-512GB-SSD,-15-6-inch,-Chalkboard-gray.jpg",
+    "brand" : "HP",
+    "title" : "HP Notebook 15s, Core i5, 8GB, 512GB SSD, 15.6 inch, Chalkboard gray",
+    "rate" : "4.3",
+    "peopleRates" : "147",
+    "price" : "1699",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },
+    {
+        "offerId" : 1,
+        "sallerId" : 2,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/laptop/APPLE-MacBook-Air,-M2,-8GB,-256GB-SSD,-13-6-inch,-Midnight.jpg",
+    "brand" : "APPLE",
+    "title" : "APPLE MacBook Air, M2, 8GB, 256GB SSD, 13.6 inch, Midnight",
+    "rate" : "4.7",
+    "peopleRates" : "807",
+    "price" : "3779",
+    "offer" : "27.31% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 2,
+        "sallerId" : 3,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/laptop/LENOVO-IdeaPad-1,-Ryzen-7,-16GB,-512GB-SSD,-15-6-inch,-Cloud-Grey.jpg",
+    "brand" : "LENOVO",
+    "title" : "LENOVO IdeaPad 1, Ryzen 7, 16GB, 512GB SSD, 15.6 inch, Cloud Grey",
+    "price" : "1799",
+    "offer" : "40.01% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 3,
+        "sallerId" : 4,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/laptop/HP-Notebook-15s,-Core-i5,-8GB,-512GB-SSD,-15-6-inch,-Chalkboard-gray.jpg",
+    "brand" : "LENOVO",
+    "title" : "LENOVO IdeaPad 1, Ryzen 7, 16GB, 512GB SSD, 15.6 inch, Cloud Grey",
+    "rate" : "4.5",
+    "peopleRates" : "12",
+    "price" : "2429",
+    "offer" : "39.26% Off",
+    "realPrice" : "3999",
+    "saveOffer" : "SAR 1570",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 4,
+        "sallerId" : 5,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/laptop/HUAWEI-MateBook-14,-Core-i5,-16GB,-512GB-SSD,14-inch-Touch,,-Space-Gray.jpg",
+    "brand" : "HUAWEI",
+    "title" : "HUAWEI MateBook 14, Core i5, 16GB, 512GB SSD,14 inch Touch,, Space Gray",
+    "rate" : "4",
+    "peopleRates" : "80",
+    "price" : "1499",
+    "offer" : "41.39% Off",
+    "realPrice" : "2199",
+    "saveOffer" : "SAR 700",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 5,
+        "sallerId" : 6,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/laptop/HP-Notebook-15s,-Core-i5,-8GB,-512GB-SSD,-15-6-inch,-Chalkboard-gray.jpg",
+    "brand" : "HP",
+    "title" : "HP Pavilion x360, Core i5, 8GB, 512GB, 14 inch, Touch, Natural Silver",
+    "rate" : "4.6",
+    "peopleRates" : "36",
+    "price" : "2449",
+    "offer" : "33.79% Off",
+    "realPrice" : "3699",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 6,
+        "sallerId" : 7,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/laptop/HP-Notebook-15s,-Core-i5,-8GB,-512GB-SSD,-15-6-inch,-Chalkboard-gray.jpg",
+    "brand" : "HP",
+    "title" : "HP Notebook 15s, Core i5, 8GB, 512GB SSD, 15.6 inch, Chalkboard gray",
+    "rate" : "4.3",
+    "peopleRates" : "147",
+    "price" : "1699",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    } 
+],
+"washing" : [{
+    "offerId" : 0,
+    "sallerId" : 1,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/washing/Classpro-Top-Loading,-Washer,-7kg-,10-Programs-,-White.jpg",
+"brand" : "CLASS PRO",
+"title" : "Classpro Top Loading, Washer, 7kg ,10 Programs , White",
+"rate" : "4.3",
+"peopleRates" : "147",
+"price" : "719",
+"offer" : "50.03% Off",
+"realPrice" : "1439",
+"saveOffer" : "SAR 720",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 1,
+    "sallerId" : 2,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/washing/LG-Front-Load-Washing-Machine,-Washer-15kg,-8kg-Dryer,-Silver.jpg",
+"brand" : "LG",
+"title" : "LG Front Load Washing Machine, Washer 15kg, 8kg Dryer, Silver",
+"rate" : "4.3",
+"peopleRates" : "147",
+"price" : "4199",
+"offer" : "50.1% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 2,
+    "sallerId" : 3,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/washing/Toshiba-Top-load-Washer,-10-kg,-8-Programs,-Silver.jpg",
+"brand" : "TOSHIBA",
+"title" : "Toshiba Top load Washer, 10 kg, 8 Programs, Silver",
+"rate" : "4.3",
+"peopleRates" : "147",
+"price" : "1479",
+"offer" : "41.39% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 3,
+    "sallerId" : 4,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/washing/LG-4Front-Load-Washer,-15kg,-Steam,-Wi-Fi,-White.jpg",
+"brand" : "LG",
+"title" : "LG Front Load Washer, 15kg, Steam, Wi-Fi, White",
+"price" : "1699",
+"offer" : "41.39% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 4,
+    "sallerId" : 5,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/washing/LG-5Front-Load-Fully-Automatic-Washer-Dryer-10-5-7kg-with-AI-DD,Silver.jpg",
+"brand" : "LG",
+"title" : "LG Front Load Fully Automatic Washer/Dryer 10.5/7kg with AI DD,Silver",
+"price" : "1699",
+"offer" : "41.39% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 5,
+    "sallerId" : 6,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/washing/LG-6Front-Load-Fully-Automatic-Washer,10-5-kg,-TurboWash,Silver.jpg",
+"brand" : "LG",
+"title" : "LG Front Load Fully Automatic Washer,10.5 kg, TurboWash,Silver",
+"rate" : "4.3",
+"peopleRates" : "147",
+"price" : "1699",
+"offer" : "41.39% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 0,
+    "sallerId" : 1,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/laptop/HP-Notebook-15s,-Core-i5,-8GB,-512GB-SSD,-15-6-inch,-Chalkboard-gray.jpg",
+"brand" : "HP",
+"title" : "HP Notebook 15s, Core i5, 8GB, 512GB SSD, 15.6 inch, Chalkboard gray",
+"rate" : "4.3",
+"peopleRates" : "147",
+"price" : "1699",
+"offer" : "41.39% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 0,
+    "sallerId" : 1,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/laptop/HP-Notebook-15s,-Core-i5,-8GB,-512GB-SSD,-15-6-inch,-Chalkboard-gray.jpg",
+"brand" : "HP",
+"title" : "HP Notebook 15s, Core i5, 8GB, 512GB SSD, 15.6 inch, Chalkboard gray",
+"rate" : "4.3",
+"peopleRates" : "147",
+"price" : "1699",
+"offer" : "41.39% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+},{
+    "offerId" : 0,
+    "sallerId" : 1,
+"megaSale" : "Mega Sale",
+"imgUrl" : "/public/gifts/laptop/HP-Notebook-15s,-Core-i5,-8GB,-512GB-SSD,-15-6-inch,-Chalkboard-gray.jpg",
+"brand" : "HP",
+"title" : "HP Notebook 15s, Core i5, 8GB, 512GB SSD, 15.6 inch, Chalkboard gray",
+"rate" : "4.3",
+"peopleRates" : "147",
+"price" : "1699",
+"offer" : "41.39% Off",
+"realPrice" : "2899",
+"saveOffer" : "SAR 1200",
+"sub" : "Split it your way buy now pay later!",
+"lineText" : "1969",
+"save" : "SAR 270",
+"imgs" : [{
+    "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+    "tamara" : "/public/offers/imgs/tamara-icon.png",
+    "tabby" : "/public/offers/imgs/tabby_new.png"
+}]
+}],
+"refrigetarors" : [{
+        "offerId" : 0,
+        "sallerId" : 1,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/refrigerator/ClassPro-Refrigerator-12-9Cu-ft,-Freezer-3-5Cu-ft,-No-Frost,-Color-Silk-Inox.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "ClassPro Refrigerator 12.9Cu.ft, Freezer 3.5Cu.ft, No Frost, Color Silk Inox",
+    "price" : "1599",
+    "offer" : "55.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },{
+        "offerId" : 1,
+        "sallerId" : 2,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/refrigerator/ClassPro-2-Single-Door-Refrigerator,-6-2-Cu-ft,-Silver.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "ClassPro Single Door Refrigerator, 6.2 Cu.ft, Silver",
+    "price" : "1699",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },
+    {
+        "offerId" : 2,
+        "sallerId" : 3,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/refrigerator/ClassPro-3-Single-Door-Refrigerator,-6-2-Cu-ft,-White.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "ClassPro Single Door Refrigerator, 6.2 Cu.ft, White",
+    "price" : "699",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },
+    {
+        "offerId" : 3,
+        "sallerId" : 4,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/refrigerator/Classpro-Beverage-Cooler,-91-Ltrs,-Color-Black.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "Classpro Beverage Cooler, 91 Ltrs, Color Black",
+    "price" : "1699",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },{
+        "offerId" : 4,
+        "sallerId" : 5,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/refrigerator/Panasonic-Side-by-Side-Refrigerator-11-8Cu-ft,-Freezer-6-2Cu-ft,-INVERTER,-Stainless-Steel.jpg",
+    "brand" : "PANASONIC",
+    "title" : "Panasonic Side by Side Refrigerator 11.8Cu.ft, Freezer 6.2Cu.ft, INVERTER, Stainless Steel",
+    "price" : "2499",
+    "offer" : "50.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },{
+        "offerId" : 5,
+        "sallerId" : 6,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/refrigerator/ClassPro-6-Refrigerator-Freezer-Convertible-21-1-Cu-ft,-598L,-Stainless-Steel.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "ClassPro Refrigerator/Freezer Convertible 21.1 Cu.ft, 598L, Stainless Steel",
+    "price" : "2249",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    }
+
+]
+, "tablets" : [
+    {
+        "offerId" : 0,
+        "sallerId" : 1,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/tablets/Samsung-Galaxy-Tab-A9,-Wi-Fi,-8-7-Inch,-64GB,-Graphite.jpg",
+    "brand" : "SAMSUNG",
+    "title" : "Samsung Galaxy Tab A9, Wi-Fi, 8.7 Inch, 64GB, Graphite",
+    "price" : "2249",
+    "rate" : "4.7",
+    "peopleRates" : "130",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },{
+        "offerId" : 1,
+        "sallerId" : 2,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/tablets/Apple-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Silver.jpg",
+    "brand" : "APPLE",
+    "title" : "Apple iPad 10th Gen, Wi-Fi, 10.9 inch, 64GB, Silver",
+    "rate" : "4.3",
+    "peopleRates" : "1651",
+    "price" : "2249",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },
+    {
+        "offerId" : 2,
+        "sallerId" : 3,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/tablets/Apple-3-iPad-10th-Gen,-Wi-Fi,-10-9-inch,-64GB,-Blue.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "Apple iPad 10th Gen, Wi-Fi, 10.9 inch, 64GB, blue",
+    "rate" : "4.7",
+    "peopleRates" : "130",
+    "price" : "2249",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },
+    {
+        "offerId" : 3,
+        "sallerId" : 4,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/tablets/Samsung-Galaxy-Tab-A9,-Wi-Fi,-8-7-Inch,-64GB,-Silver.jpg",
+    "brand" : "SAMSUNG",
+    "title" : "Samsung Galaxy Tab A9, Wi-Fi, 8.7 Inch, 64GB, Silver",
+    "rate" : "4.7",
+    "peopleRates" : "130",
+    "price" : "2249",
+    "offer" : "41.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },
+    {
+        "offerId" : 4,
+        "sallerId" : 5,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/tablets/Honor-Pad-X8,-Wi-Fi,-10-1-inch,-IPS,-64GB,-Blue-Hour,-With-Flip-Cover.jpg",
+    "brand" : "HONOR",
+    "title" : "Honor Pad X8, Wi-Fi, 10.1-inch, IPS, 64GB, Blue Hour, With Flip Cover",
+    "rate" : "4.8",
+    "peopleRates" : "177",
+    "price" : "499",
+    "offer" : "28.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },
+    {
+        "offerId" : 5,
+        "sallerId" : 6,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/tablets/Samsung-Galaxy-6-Tab-A9,-Wi-Fi,-8-7-Inch,-64GB,-Navy.jpg",
+    "brand" : "SAMSUNG",
+    "title" : "Samsung Galaxy Tab A9, Wi-Fi, 8.7 Inch, 64GB, Navy",
+    "rate" : "4.7",
+    "peopleRates" : "130",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    }
+], 
+"vacuum" : [
+    {
+        "offerId" : 0,
+        "sallerId" : 1,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/vacuum/Eufy-G20-Hybrid-RoboVac,-0-45L,-Mop-&-Clean-Functions,-2500Pa,-14-4-Volts,-Black.jpg",
+    "brand" : "EUFY",
+    "title" : "Eufy G20 Hybrid RoboVac, 0.45L, Mop & Clean Functions, 2500Pa, 14.4 Volts, Black",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 1,
+        "sallerId" : 2,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/vacuum/Hoover-Platinum-Power-Max-Power-Deep-Cleaning,-1200W,Black.jpg",
+    "brand" : "HOOVER",
+    "title" : "Hoover Platinum Power Max. Power Deep Cleaning, 1200W,Black",
+    "rate" : "4.3",
+    "peopleRates" : "8",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 2,
+        "sallerId" : 3,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/vacuum/Philips-PowerPro-Compact-Bagless-Vacuum,-1800W,-330W-Suction-power,-Power-Cyclone-5-Technology.jpg",
+    "brand" : "PHILIPS",
+    "title" : "Philips PowerPro Compact Bagless Vacuum, 1800W, 330W Suction power, Power Cyclone 5 Technology",
+    "rate" : "4.6",
+    "peopleRates" : "230",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 3,
+        "sallerId" : 4,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/vacuum/ClassPro-Vacuum-Cleaner-21L.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "ClassPro Vacuum Cleaner 21L",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 4,
+        "sallerId" : 5,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/vacuum/Panasonic-Vaccum-Cleaner,-2000W,-18L,-Long-Reach-8m-Cord,-2-Step-Nozzle.jpg",
+    "brand" : "PANASONIC",
+    "title" : "Panasonic Vaccum Cleaner, 2000W,  18L, Long Reach 8m Cord, 2-Step Nozzle",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 5,
+        "sallerId" : 6,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/vacuum/Hoover-6-Power-Vacuum-Cleaner,-3-Lts-,-2200-Watts,-Grey-&-Red.jpg",
+    "brand" : "HOOVER",
+    "title" : "Hoover Power Vacuum Cleaner, 3 Lts , 2200 Watts, Grey & Red",
+    "rate" : "4.7",
+    "peopleRates" : "130",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    }
+], "microwaves" : [
+    {
+        "offerId" : 0,
+        "sallerId" : 1,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/microwaves/LG,-Microwave-Solo,-42L,-Black.jpg",
+    "brand" : "LG",
+    "title" : "LG, Microwave Solo, 42L, Black",
+    "price" : "589",
+    "offer" : "43.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 1,
+        "sallerId" : 2,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/microwaves/LG-Neo-Chef-Solo-Microwave,-20-Liters,-700W,-Black.jpg",
+    "brand" : "LG",
+    "title" : "LG Neo Chef Solo Microwave, 20 Liters, 700W, Black",
+    "rate" : "5",
+    "peopleRates" : "2",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 2,
+        "sallerId" : 3,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/microwaves/ClassPro-Microwave-Oven,-20L,-700W,-Digital-Control-,-White.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "ClassPro Microwave Oven, 20L, 700W, Digital Control , White",
+    
+    "price" : "229",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 3,
+        "sallerId" : 4,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/microwaves/ClassPro-5-30L-Microwave-Oven-900w,-with-Grill.jpg",
+    "brand" : "CLASS PRO",
+    "title" : "ClassPro 30L Microwave Oven 900w, with Grill",
+    "price" : "819",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 4,
+        "sallerId" : 5,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/microwaves/ClassPro-5-30L-Microwave-Oven-900w,-with-Grill.jpg",
+    "brand" : "PANASONIC",
+    "title" : "Panasonic Vaccum Cleaner, 2000W,  18L, Long Reach 8m Cord, 2-Step Nozzle",
+    "rate" : "4.8",
+    "peopleRates" : "95",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 5,
+        "sallerId" : 6,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/microwaves/LG,-6-Microwave-Grill,-42L,-Gray.jpg",
+    "brand" : "LG",
+    "title" : "LG, Microwave Grill, 42L, Gray",
+    "rate" : "4.7",
+    "peopleRates" : "130",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    }
+],
+"outdoors" :[
+    {
+        "offerId" : 0,
+        "sallerId" : 1,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/outdoor/Homez,-Foldable-beach-chair-with-bottle-holder,-Off-White-black.jpg",
+    "brand" : "HOMEZ",
+    "title" : "Homez, Foldable beach chair with bottle holder, Off White black",
+    "price" : "589",
+    "offer" : "43.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 1,
+        "sallerId" : 2,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/outdoor/Homez,-Foldable-beach-chair-with-bottle-holder,-Red-and-black.jpg",
+    "brand" : "HOMEZ",
+    "title" : "Homez, Foldable beach chair with bottle holder, Red and black",
+    "price" : "399",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 2,
+        "sallerId" : 3,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/outdoor/Homez,-Kingston-7Pcs-Outdoor-Dinning-Set,-6-Chairs,-1-Table-.jpg",
+    "brand" : "HOMEZ",
+    "title" : "Homez, Kingston 7Pcs Outdoor Dinning Set, 6 Chairs, 1 Table.",
+    "price" : "229",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 3,
+        "sallerId" : 4,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/outdoor/Homez,-6-Foot-Fold-In-Half-Table,-180x74x74cm,-white.jpg",
+    "brand" : "HOMEZ",
+    "title" : "Homez, 6 Foot Fold In Half Table, 180x74x74cm, white",
+    "price" : "149",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 4,
+        "sallerId" : 5,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/outdoor/Homez,-4-Foot-Fold-In-Half-Table,-122x61x74cm,-white.jpg",
+    "brand" : "HOMEZ",
+    "title" : "Homez, 4 Foot Fold In Half Table, 122x61x74cm, white",
+    "price" : "199",
+    "offer" : "38.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },    {
+        "offerId" : 5,
+        "sallerId" : 6,
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/gifts/outdoor/Homez,-Foldable-beach-chair,-green-and-black.jpg",
+    "brand" : "HOMEZ",
+    "title" : "Homez, Foldable beach chair, green and black",
+    "price" : "99",
+    "offer" : "50.39% Off",
+    "realPrice" : "2899",
+    "saveOffer" : "SAR 1200",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    }
+]
+}

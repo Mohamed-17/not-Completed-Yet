@@ -1,0 +1,41 @@
+{
+    "valueGifts" : [
+        {
+        "id": 0,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_Tablets-1.png",
+        "Title" : "Tablets"
+    },  {
+        "id": 1,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_Scooter-2.png",
+        "Title" : "Electric Scooters"
+    },  {
+        "id": 2,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_IPLs-3.png",
+        "Title" : "IPLs"
+    },  {
+        "id": 3,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_Men'sGrooming-4.png",
+        "Title" : "Grooming"
+    },  {
+        "id": 4,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_Eyeware-5.png",
+        "Title" : "Eyeware"
+    },  {
+        "id": 5,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_SmartWatches-6.png",
+        "Title" : "Smartwatches"
+    },  {
+        "id": 6,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_CoffeeMachine-8.png",
+        "Title" : "Coffee"
+    },  {
+        "id": 7,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_Camera-9.png",
+        "Title" : "Camera"
+    },  {
+        "id": 8,
+        "imgUrl" : "/public/gifts/MS24_Giftideas_HomeAccessories-9.png",
+        "Title" : "Home Accessories"
+    }
+]
+}

@@ -1,0 +1,137 @@
+{
+    "BestSellers" : [{
+        "offerId" : 0,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+    "brand" : "Apple",
+    "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    },{
+        "offerId" : 1,
+        "sabOffer" : "SAB Offer",
+        "specialOffer" : "Special Offer",
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+        "brand" : "Apple",
+        "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
+        "rate" : "4.7",
+        "peopleRates" : "246",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+    },{
+        "offerId" : 2,
+        "sabOffer" : "SAB Offer",
+        "specialOffer" : "Special Offer",
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+        "brand" : "Apple",
+        "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
+        "rate" : "4.7",
+        "peopleRates" : "246",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+    },
+    {
+        "offerId" : 3,
+        "sabOffer" : "SAB Offer",
+        "specialOffer" : "Special Offer",
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+        "brand" : "Apple",
+        "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
+        "rate" : "4.7",
+        "peopleRates" : "246",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+    },{
+        "offerId" : 4,
+        "sabOffer" : "SAB Offer",
+        "specialOffer" : "Special Offer",
+        "megaSale" : "Mega Sale",
+        "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+        "brand" : "Apple",
+        "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
+        "rate" : "4.7",
+        "peopleRates" : "246",
+        "price" : "1699",
+        "offer" : "13.71% Off",
+        "realPrice" : "1969",
+        "saveOffer" : "SAR 270",
+        "sub" : "Split it your way buy now pay later!",
+        "lineText" : "1969",
+        "save" : "SAR 270",
+        "imgs" : [{
+            "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+            "tamara" : "/public/offers/imgs/tamara-icon.png",
+            "tabby" : "/public/offers/imgs/tabby_new.png"
+        }]
+    },{
+        "offerId" : 5,
+    "sabOffer" : "SAB Offer",
+    "specialOffer" : "Special Offer",
+    "megaSale" : "Mega Sale",
+    "imgUrl" : "/public/offers/Apple-white-iPhone-15,-5G,-6-1-inch,-128GB,-Blue.png",
+    "brand" : "Apple",
+    "title" : "Apple iPhone 15, 5G, 6.1 inch, 128GB, Blue",
+    "rate" : "4.7",
+    "peopleRates" : "246",
+    "price" : "1699",
+    "offer" : "13.71% Off",
+    "realPrice" : "1969",
+    "saveOffer" : "SAR 270",
+    "sub" : "Split it your way buy now pay later!",
+    "lineText" : "1969",
+    "save" : "SAR 270",
+    "imgs" : [{
+        "baseeta" : "/public/offers/imgs/Baseeta-english-logo.png",
+        "tamara" : "/public/offers/imgs/tamara-icon.png",
+        "tabby" : "/public/offers/imgs/tabby_new.png"
+    }]
+    }
+]
+}
